@@ -21,6 +21,6 @@ Can't wait to see what Flux2 can do, right after I invest $30,000 in a graphics 
 ## Helpful Links
 
 - `index.html` - HTML Index Grid showcasing a comparative view of generated images. [View HTML Index Grid](./index.html)
-- `index.md` - MarkDown Grid showcasing a comparative view of generated images. [View HTML Index Grid](./index.md)
+- `index.md` - MarkDown Grid showcasing a comparative view of generated images. [View Markdown Index Grid](./index.md)
 - `FullGrid.jpg` - A composite image displaying all generated images in a single grid. [View Full Grid Image](./FullGrid.jpg)
 
